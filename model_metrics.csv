@@ -1,0 +1,4 @@
+model,accuracy,f1_weighted,precision_weighted,recall_weighted,auc_ovr
+Random Forest,0.9994,0.9994,0.9994,0.9994,0.9999
+Gradient Boost,0.9997,0.9997,0.9997,0.9997,1.0
+Logistic Regression,0.9832,0.9834,0.9838,0.9832,0.9997
